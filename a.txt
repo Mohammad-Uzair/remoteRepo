@@ -1,2 +1,3 @@
 first line in file a
 second line commiting in file a
+adding 3rd line to the line file a
